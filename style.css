@@ -28,7 +28,7 @@ body {
   animation-fill-mode: forwards;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-  animation-timing-function: ease-in;
+  animation-timing-function: ease-ouyt;
 }
 
 /* CSS Animation*/
